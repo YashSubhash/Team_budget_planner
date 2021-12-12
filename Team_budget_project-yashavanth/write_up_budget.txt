@@ -1,0 +1,12 @@
+My Team budget planner project calculate the product total prices.
+This website contains the three buttons such has add ,total budget and
+view the product.
+1. First button is 'click here to add the products',when click on this button,
+prompt box will be open,in that it number of products you want ,add so user will be
+able add the product names and corresponding prices. If in case user enter the
+string insted of number it will ask agian the number.
+2. Second button is 'click here to view the total budget',In that user able to view
+the our total prices for our products.
+3. thirs button is 'click here to view the product Details', In that users able to 
+view the prodect details.
+And again user able to add the products if they are want.    
